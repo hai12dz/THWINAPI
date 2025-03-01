@@ -1,0 +1,4 @@
+﻿  TH1_3.cpp
+E:\zalo\api\TH\TH1_3\TH1_3\TH1_3.cpp(52,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+E:\zalo\api\TH\TH1_3\TH1_3\TH1_3.cpp(181,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TH1_3.vcxproj -> E:\zalo\api\TH\TH1_3\x64\Debug\TH1_3.exe

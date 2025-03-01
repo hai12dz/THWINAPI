@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\zalo\\api\\TH\\TH1_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D4C39B-4A0C-4C16-A014-7794D2F02BD8}|TH1_3\\TH1_3.vcxproj|E:\\zalo\\api\\TH\\TH1_3\\TH1_3\\TH1_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6D4C39B-4A0C-4C16-A014-7794D2F02BD8}|TH1_3\\TH1_3.vcxproj|solutionrelative:TH1_3\\TH1_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TH1_3.cpp",
+              "DocumentMoniker": "E:\\zalo\\api\\TH\\TH1_3\\TH1_3\\TH1_3.cpp",
+              "RelativeDocumentMoniker": "TH1_3\\TH1_3.cpp",
+              "ToolTip": "E:\\zalo\\api\\TH\\TH1_3\\TH1_3\\TH1_3.cpp",
+              "RelativeToolTip": "TH1_3\\TH1_3.cpp",
+              "ViewState": "AgIAALAAAAAAAAAAAAAQwL0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T04:11:25.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
