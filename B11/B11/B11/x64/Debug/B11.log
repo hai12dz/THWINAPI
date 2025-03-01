@@ -1,0 +1,3 @@
+﻿  B11.cpp
+E:\zalo\api\TH\B11\B11\B11.cpp(45,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  B11.vcxproj -> E:\zalo\api\TH\B11\B11\x64\Debug\B11.exe
